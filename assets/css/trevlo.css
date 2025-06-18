@@ -13612,7 +13612,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-color: var(--trevlo-primary, #2D2330);
   margin-left: auto;
   margin-right: auto;
-  padding: 30px 45px 60px 79px;
+  padding: 15px;
   border-radius: 10px;
 }
 @media (max-width: 1199px) {
